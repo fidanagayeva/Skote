@@ -1,0 +1,29 @@
+{
+    "jobs": [
+      {
+        "id": 1,
+        "jobTitle": "Software Engineer",
+        "companyName": "Google",
+        "location": "San Francisco",
+        "experience": "3 years",
+        "position": "Senior Developer",
+        "type": "Full Time",
+        "status": "Active",
+        "postedDate": "2023-06-01",
+        "lastDate": "2023-08-01"
+      },
+      {
+        "id": 2,
+        "jobTitle": "Product Manager",
+        "companyName": "Facebook",
+        "location": "Menlo Park",
+        "experience": "5 years",
+        "position": "Manager",
+        "type": "Full Time",
+        "status": "Active",
+        "postedDate": "2023-07-01",
+        "lastDate": "2023-09-01"
+      }
+    ]
+  }
+  
